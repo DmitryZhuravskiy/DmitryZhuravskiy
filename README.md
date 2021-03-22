@@ -2,7 +2,7 @@
 #### Я Frontend разработчик
 ![Я Frontend разработчик](https://github.com/DmitryZhuravskiy/DmitryZhuravskiy/blob/main/images/palm-desert.jpg)
 
-Занимаюсь frontend разработкой, непосредственно сейчас разбираю, как лучше сделать страницу профиля здесь на GitHub.
+Занимаюсь frontend разработкой. Также разбираю, как улучшить страницу профиля на GitHub.
 
 Стек технологий: REACT / JS / HTML / CSS
 
