@@ -6,7 +6,7 @@
 
 Стек технологий: REACT / JS / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryZhuravskiy)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on this page. 
 
