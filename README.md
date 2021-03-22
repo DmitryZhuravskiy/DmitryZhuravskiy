@@ -8,6 +8,8 @@
 
 [![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryZhuravskiy)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DmitryZhuravskiy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dmitry-zhuravskiy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](dmitry.zhuravskiy@gmail.com)  
+
 - 🔭 I’m currently working on this page. 
 
 
