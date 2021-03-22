@@ -1,12 +1,12 @@
 ### Здравствуйте, я Дмитрий Журавский
 #### Я Frontend разработчик
-![Я Frontend разработчик](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Я Frontend разработчик](https://github.com/DmitryZhuravskiy/DmitryZhuravskiy/blob/main/images/palm-desert.jpg)
 
 Занимаюсь frontend разработкой, непосредственно сейчас разбираю, как лучше сделать страницу профиля здесь на GitHub.
 
 Стек технологий: REACT / JS / HTML / CSS
 
-[![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryZhuravskiy)](https://github.com/anuraghazra/github-readme-stats)
+[![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryZhuravskiy)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 - 🔭 I’m currently working on this page. 
 
