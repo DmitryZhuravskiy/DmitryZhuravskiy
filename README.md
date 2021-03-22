@@ -15,8 +15,6 @@
 ![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-<img src="https://camo.githubusercontent.com/2c35078344be480c144d239355446838b6e63cfbbf650077a209262728ba3440/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" width="100" height="27">
-<img src="https://camo.githubusercontent.com/1f11106396efd0b619f5497783ec2c078946acdeb1cc5e872b07baf8af40baf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726574746965722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572" width="100" height="27">
 
 <img src="https://camo.githubusercontent.com/9c71d683b6ae49841ad8418b36a8e0155322f2f7feff416bf93c9d2ec7ff0841/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d2d536167612d3233306633393f7374796c653d666c61742d737175617265266c6f676f3d5265647578266c6f676f436f6c6f723d666633393239" width="120" height="27">
 
