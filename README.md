@@ -1,4 +1,18 @@
-### Hi there 👋
+### Здравствуйте, я Дмитрий Журавский
+#### Я Frontend разработчик
+![Я Frontend разработчик](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Занимаюсь frontend разработкой, непосредственно сейчас разбираю, как лучше сделать страницу профиля здесь на GitHub.
+
+Стек технологий: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
 
 <!--
 **DmitryZhuravskiy/DmitryZhuravskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
