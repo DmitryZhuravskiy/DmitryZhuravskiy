@@ -21,22 +21,28 @@
 <img src="https://camo.githubusercontent.com/9c71d683b6ae49841ad8418b36a8e0155322f2f7feff416bf93c9d2ec7ff0841/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d2d536167612d3233306633393f7374796c653d666c61742d737175617265266c6f676f3d5265647578266c6f676f436f6c6f723d666633393239" width="120" height="27">
 <img src="https://camo.githubusercontent.com/05fa5b49e5aed65571a782d2d5a857a463c6862ffea1a420aa076f4fe9edb895/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d2d5468756e6b2d3233306633393f7374796c653d666c61742d737175617265266c6f676f3d5265647578266c6f676f436f6c6f723d666633393239" width="140" height="27"/>
 
+![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)
+![Webpack](https://shields.io/badge/-Webpack-2b3a42?logo=webpack&style=for-the-badge)
+![ESLint](https://shields.io/badge/-ESLint-2b3a42?logo=ESLint&style=for-the-badge&logoColor=4D3BC4)
+![NPM](https://shields.io/badge/-npm-000000?logo=npm&style=for-the-badge)
+![Figma](https://shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=fff)  
 
-![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/react_router%20-CA4245.svg?&style=for-the-badge&logo=react-router&logoColor=white)
-![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
-<img src="https://camo.githubusercontent.com/9c71d683b6ae49841ad8418b36a8e0155322f2f7feff416bf93c9d2ec7ff0841/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d2d536167612d3233306633393f7374796c653d666c61742d737175617265266c6f676f3d5265647578266c6f676f436f6c6f723d666633393239" width="120" height="27">
-<img src="https://camo.githubusercontent.com/05fa5b49e5aed65571a782d2d5a857a463c6862ffea1a420aa076f4fe9edb895/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d2d5468756e6b2d3233306633393f7374796c653d666c61742d737175617265266c6f676f3d5265647578266c6f676f436f6c6f723d666633393239" width="140" height="27"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://shields.io/badge/-Express-333?logo=express&style=for-the-badge)
+![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)  
 
+### 🏆 Моя статистика:
 [![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryZhuravskiy)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DmitryZhuravskiy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dmitry-zhuravskiy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](dmitry.zhuravskiy@gmail.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryZhuravskiy)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DmitryZhuravskiy)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DmitryZhuravskiy) 
+
+![codewars](https://www.codewars.com/users/DimaZeal/badges/large)
+
+### Контакты:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DmitryZhuravskiy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dmitry-zhuravskiy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](dmitry.zhuravskiy@gmail.com)  
 
 
 
