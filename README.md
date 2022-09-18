@@ -1,14 +1,21 @@
 ### Здравствуйте, я Дмитрий Журавский
-#### Я Frontend разработчик
-![Я Frontend разработчик](https://github.com/DmitryZhuravskiy/DmitryZhuravskiy/blob/main/images/palm-desert.jpg)
+#### Frontend Developer
 
-Занимаюсь frontend разработкой. Также разбираю, как улучшить страницу профиля на GitHub.
+* Разрабатываю современные и удобные пользовательские интерфейсы
+* Работаю, строго соблюдая дедлайны
+* Постоянно расшираяющийся набор технологий 
+* Пишу чистый, читабельный код
+* Пишу документацию по проекту, описание работы, функционал, особенности
+* Выдержка самурая + напор берсерка
 
-#### Стек технологий
+#### Применямые технологии
+![HTML5](https://img.shields.io/badge/-HTML5-E35031?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/-CSS3-409AD7?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![SCSS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Java_Script-F8DF31?style=for-the-badge&logo=javascript&logoColor=000000)
 
-<!-- TODO: Make technologies links takes you to repositories -->
-![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
+
 <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
